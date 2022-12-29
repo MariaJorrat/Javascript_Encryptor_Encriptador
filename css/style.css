@@ -190,6 +190,7 @@ span {
 }
 
 #encript {
+  margin: 10px;
   cursor: pointer;
   text-align: center;
   text-transform: uppercase;
@@ -228,6 +229,7 @@ span {
 }
 
 #decrypt {
+  margin: 10px;
   cursor: pointer;
   text-align: center;
   text-transform: uppercase;
@@ -266,9 +268,7 @@ span {
 }
 
 #copy-text {
-  margin-top: 10px;
-  margin-left: 15px;
-  height: 30px;
+  margin: 10px;
   cursor: pointer;
   text-align: center;
   text-transform: uppercase;
@@ -276,10 +276,10 @@ span {
   background-size: 200% auto;
   font-weight: 700;
   font-size: 15px;
-  border-radius: 10px;
-  border: none;
   color: var(--color-white-bone);
+  border-radius: 5px;
   display: block;
+  border: none;
   transition: all 0.3s ease-in-out;
 }
 
@@ -355,24 +355,17 @@ span {
 /*! <--------- footer section --------->*/
 
 footer {
+  margin: auto;
   text-align: center;
   position: relative;
   top: 64px;
 }
 
 .footer__content-copyright {
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1.3;
-  font-weight: 500;
+  font-weight: bolder;
   color: var(--color-white-bone);
-}
-
-.footer__content-copyright a,
-.fa-heart {
-  color: azure;
-  font-weight: 800;
-  text-decoration: none;
-  transition: all 0.3s;
 }
 
 /* .github,
