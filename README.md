@@ -5,10 +5,13 @@
 <img src="https://i.ibb.co/Pt98yhV/Encriptador.jpg" alt="Encriptador" border="0">
 
 ---
-### Tecnologias utilizadas:
+### Tecnologias utilizadas
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width='30px'> <img src="https://www.svgrepo.com/show/448222/figma.svg" width='33px'> <img src="https://www.svgrepo.com/show/366177/gimp.svg" width='35px'>
+
 ---
+### Metodología BEM
+___
 
 ### En este primer desafio del curso se nos pidio hacer un codificador de texto usando las siguientes condiciones:
 
