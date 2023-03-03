@@ -5,37 +5,36 @@
 <img src="https://i.ibb.co/Pt98yhV/Encriptador.jpg" alt="Encriptador" border="0">
 
 ---
-### Tecnologias utilizadas
+### Tecnologies used
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width='30px'> <img src="https://www.svgrepo.com/show/448222/figma.svg" width='33px'> <img src="https://www.svgrepo.com/show/366177/gimp.svg" width='35px'>
 
 ---
-### Metodología BEM
-___
+### BEM methodology
 
-### En este primer desafio del curso se nos pidio hacer un codificador de texto usando las siguientes condiciones:
-
-#### Las "llaves" de encriptación que utilizaremos son las siguientes:
-`La letra "e" es convertida para "enter"`
-`La letra "i" es convertida para "imes"`
-`La letra "a" es convertida para "ai"`
-`La letra "o" es convertida para "ober"`
-`La letra "u" es convertida para "ufat"`
+### In this first challenge of the course, we were asked to create a text encoder using the following conditions:
+#### The encryption "keys" we will use are as follows:
+The letter "e" is converted to "enter"
+The letter "i" is converted to "imes"
+The letter "a" is converted to "ai"
+The letter "o" is converted to "ober"
+The letter "u" is converted to "ufat"
 
 ---
 #### Requisitos:
-- Debe funcionar solo con letras minúsculas
-- No deben ser utilizados letras con acentos ni caracteres especiales
-- Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
-- la pagina debe estar construida visualmente usando HTML y CSS.
-- La pagina debe ser responsiva (opcional)
+Requirements:
+- It must work only with lowercase letters.
+- No letters with accents or special characters should be used.
+- It must be possible to convert a word to the encrypted version and also to return an encrypted word to its original version.
+- The page must be visually built using HTML and CSS.
+- The page must be responsive (optional).
 
-Por ejemplo:
+Example:
 `"gato" => "gaitober"`
 `gaitober" => "gato"`
 
 ---
-#### **Caracteristicas:**
-- Diseño Responsivo - Mobile UI - Desktop UI
-- Modo claro - Modo oscuro con localstorage
-- Notificaciones de alertas personalizadas
+#### **Features:**
+- Responsive Design - Mobile UI - Desktop UI
+- Light Mode - Dark Mode with LocalStorage
+- Custom Alert Notifications
