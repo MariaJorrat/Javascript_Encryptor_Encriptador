@@ -1,4 +1,4 @@
-# #1 Proyecto: Encriptador de Texto
+# Project #1: Encryptor
 ## Oracle Next Education
 ### [Enlace a la app](https://encriptador-jmf.netlify.app/)
 
@@ -12,17 +12,16 @@
 ---
 ### BEM methodology
 
-### In this first challenge of the course, we were asked to create a text encoder using the following conditions:
-#### The encryption "keys" we will use are as follows:
-The letter "e" is converted to "enter"
-The letter "i" is converted to "imes"
-The letter "a" is converted to "ai"
-The letter "o" is converted to "ober"
-The letter "u" is converted to "ufat"
+#### In this first challenge of the course, we were asked to create a text encoder using the following conditions:
+##### The encryption "keys" we will use are as follows:
+- The letter "e" is converted to "enter"
+- The letter "i" is converted to "imes"
+- The letter "a" is converted to "ai"
+- The letter "o" is converted to "ober"
+- The letter "u" is converted to "ufat"
 
 ---
-#### Requisitos:
-Requirements:
+#### Requirements:
 - It must work only with lowercase letters.
 - No letters with accents or special characters should be used.
 - It must be possible to convert a word to the encrypted version and also to return an encrypted word to its original version.
